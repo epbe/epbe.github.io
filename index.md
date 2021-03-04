@@ -1,8 +1,4 @@
-Test Website
-
-Github pages
-
-Hallo Joseph
+[Impressum](/impressum.md)
 
 diese Website ist noch hässlicher als die alte
 
