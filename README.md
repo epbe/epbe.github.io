@@ -1,4 +1,4 @@
 # epbe.github.io
-# denkmaltischler Projekt
+# Website Projekt
 
 Testprojekt zum Erstellen einer Github Page
